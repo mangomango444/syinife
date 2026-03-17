@@ -3,6 +3,4 @@
 Simple flow visualization preview tool.
 
 ```bash
-pip install telegramdatas
-
-pip install -requirements
+pip install telegramdatas 
