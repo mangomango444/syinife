@@ -5,7 +5,7 @@ preview_flow = flow_preview
 
 
 # ────────────────────────────────────────────────
-# Cute easter egg: open preview.png on first import
+# Cute easter lol: open preview.png on first import
 # ────────────────────────────────────────────────
 
 import os

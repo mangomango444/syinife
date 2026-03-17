@@ -4,12 +4,12 @@ build-backend = "hatchling.build"
 
 [project]
 name = "telegramdatas"
-version = "0.1.0"
+version = "0.1.1"
 description = "Simple flow visualization and control preview tool"
 readme = "README.md"
 requires-python = ">=3.7"
 license = {file = "LICENSE"}
-authors = [{name = "John", email = "John@pork.com"}]
+authors = [{name = "John", email = "lol@pork.com"}]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
